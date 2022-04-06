@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amindii.ge/static/css/main.7fd51fb1.css",
-    "main.js": "/amindii.ge/static/js/main.b0a2d3b5.js",
+    "main.js": "/amindii.ge/static/js/main.4b0e6896.js",
     "static/js/787.013d1f10.chunk.js": "/amindii.ge/static/js/787.013d1f10.chunk.js",
     "static/media/MYRIAD-GEO.otf": "/amindii.ge/static/media/MYRIAD-GEO.166d69f52e7e30bfce21.otf",
     "static/media/HELVETICA-LIGHT.otf": "/amindii.ge/static/media/HELVETICA-LIGHT.63097fd915d715e6d9b1.otf",
@@ -11,11 +11,11 @@
     "static/media/slick.woff": "/amindii.ge/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amindii.ge/index.html",
     "main.7fd51fb1.css.map": "/amindii.ge/static/css/main.7fd51fb1.css.map",
-    "main.b0a2d3b5.js.map": "/amindii.ge/static/js/main.b0a2d3b5.js.map",
+    "main.4b0e6896.js.map": "/amindii.ge/static/js/main.4b0e6896.js.map",
     "787.013d1f10.chunk.js.map": "/amindii.ge/static/js/787.013d1f10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd51fb1.css",
-    "static/js/main.b0a2d3b5.js"
+    "static/js/main.4b0e6896.js"
   ]
 }
